@@ -1,0 +1,9 @@
+# 字体二进制不进 git，统一放在 GitHub Releases / 本地临时下载
+*.zip
+*.tar.gz
+*.ttf
+*.otf
+
+# 临时下载目录
+/tmp/
+.cache/
